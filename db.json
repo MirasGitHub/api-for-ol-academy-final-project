@@ -6,7 +6,7 @@
 			"difficulty": "easy",
 			"question": "easy single question",
 			"options": ["option 1", "option 2", "option 3", "option 4"],
-			"correct_answer": 4
+			"correct_answer": "option 4"
 		},
 		{
 			"id": 2,
