@@ -5,70 +5,80 @@
 			"type": "single",
 			"difficulty": "easy",
 			"question": "easy single question",
-			"options": ["option 1", "option 2", "option 3", "option 4"]
+			"options": ["option 1", "option 2", "option 3", "option 4"],
+			"correct_answer": 4
 		},
 		{
 			"id": 2,
 			"type": "multiple",
 			"difficulty": "easy",
 			"question": "easy multiple question",
-			"options": ["option 1", "option 2", "option 3", "option 4"]
+			"options": ["option 1", "option 2", "option 3", "option 4"],
+			"correct_answer": [3, 4]
 		},
 		{
 			"id": 3,
 			"type": "boolean",
 			"difficulty": "easy",
 			"question": "easy boolean question",
-			"options": [true, false]
+			"options": [true, false],
+			"correct_answer": true
 		},
 		{
 			"id": 4,
 			"type": "boolean",
 			"difficulty": "medium",
 			"question": "boolean question medium",
-			"options": [true, false]
+			"options": [true, false],
+			"correct_answer": false
 		},
 		{
 			"id": 5,
 			"type": "boolean",
 			"difficulty": "hard",
 			"question": "boolean question hard",
-			"options": [true, false]
+			"options": [true, false],
+			"correct_answer": true
 		},
 		{
 			"id": 6,
 			"type": "single",
 			"difficulty": "medium",
 			"question": "medium single question",
-			"options": ["option 1", "option 2", "option 3", "option 4"]
+			"options": ["option 1", "option 2", "option 3", "option 4"],
+			"correct_answer": 3
 		},
 		{
 			"id": 7,
 			"type": "single",
 			"difficulty": "hard",
 			"question": "hard single question",
-			"options": ["option 1", "option 2", "option 3", "option 4"]
+			"options": ["option 1", "option 2", "option 3", "option 4"],
+			"correct_answer": 2
 		},
 		{
-			"id": 9,
+			"id": 8,
 			"type": "boolean",
 			"difficulty": "easy",
 			"question": "another easy boolean question",
-			"options": [true, false]
+			"options": [true, false],
+			"correct_answer": false
+		},
+		{
+			"id": 9,
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "medium multiple question",
+			"options": ["option 1", "option 2", "option 3", "option 4"],
+			"correct_answer": [1, 4]
 		},
 		{
 			"id": 10,
 			"type": "multiple",
-			"difficulty": "medium",
-			"question": "medium multiple question",
-			"options": ["option 1", "option 2", "option 3", "option 4"]
-		},
-		{
-			"id": 11,
-			"type": "multiple",
 			"difficulty": "hard",
 			"question": "hard multiple question",
-			"options": ["option 1", "option 2", "option 3", "option 4"]
+			"options": ["option 1", "option 2", "option 3", "option 4"],
+			"correct_answer": [2, 3]
 		}
 	],
 	"answers": [
@@ -82,7 +92,7 @@
 		},
 		{
 			"id": 3,
-			"answer": true
+			"answer": false
 		},
 		{
 			"id": 4,
