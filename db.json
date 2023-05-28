@@ -158,7 +158,7 @@
 			"difficulty": "easy",
 			"question": "easy boolean question 2",
 			"options": [true, false],
-			"correct_answer": true
+			"correct_answer": false
 		},
 		{
 			"id": 30,
