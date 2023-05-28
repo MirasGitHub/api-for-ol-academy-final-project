@@ -173,7 +173,7 @@
 			"type": "boolean",
 			"difficulty": "medium",
 			"question": "boolean question medium 1",
-			"options": [true, false],
+			"options": ["true", "false"],
 			"correct_answer": false
 		},
 		{
@@ -181,7 +181,7 @@
 			"type": "boolean",
 			"difficulty": "medium",
 			"question": "medium boolean question 2",
-			"options": [true, false],
+			"options": ["true", "false"],
 			"correct_answer": true
 		},
 		{
