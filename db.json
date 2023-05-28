@@ -149,8 +149,8 @@
 			"type": "boolean",
 			"difficulty": "easy",
 			"question": "easy boolean question 1",
-			"options": [true, false],
-			"correct_answer": true
+			"options": ["true", "false"],
+			"correct_answer": "true"
 		},
 		{
 			"id": 29,
@@ -165,8 +165,8 @@
 			"type": "boolean",
 			"difficulty": "easy",
 			"question": "easy boolean question 3",
-			"options": [true, false],
-			"correct_answer": true
+			"options": ["true", "false"],
+			"correct_answer": "true"
 		},
 		{
 			"id": 4,
@@ -174,7 +174,7 @@
 			"difficulty": "medium",
 			"question": "boolean question medium 1",
 			"options": ["true", "false"],
-			"correct_answer": false
+			"correct_answer": "false"
 		},
 		{
 			"id": 31,
@@ -182,39 +182,39 @@
 			"difficulty": "medium",
 			"question": "medium boolean question 2",
 			"options": ["true", "false"],
-			"correct_answer": true
+			"correct_answer": "true"
 		},
 		{
 			"id": 32,
 			"type": "boolean",
 			"difficulty": "medium",
 			"question": "medium boolean question 3",
-			"options": [true, false],
-			"correct_answer": false
+			"options": ["true", "false"],
+			"correct_answer": "false"
 		},
 		{
 			"id": 5,
 			"type": "boolean",
 			"difficulty": "hard",
 			"question": "boolean question hard 1",
-			"options": [true, false],
-			"correct_answer": true
+			"options": ["true", "false"],
+			"correct_answer": "true"
 		},
 		{
 			"id": 8,
 			"type": "boolean",
 			"difficulty": "hard",
 			"question": "hard easy boolean question 2",
-			"options": [true, false],
-			"correct_answer": false
+			"options": ["true", "false"],
+			"correct_answer": "false"
 		},
 		{
 			"id": 16,
 			"type": "boolean",
 			"difficulty": "hard",
 			"question": "hard single question 3",
-			"options": [true, false],
-			"correct_answer": false
+			"options": ["true", "false"],
+			"correct_answer": "false"
 		}
 	]
 }
