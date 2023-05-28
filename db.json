@@ -157,8 +157,8 @@
 			"type": "boolean",
 			"difficulty": "easy",
 			"question": "easy boolean question 2",
-			"options": [true, false],
-			"correct_answer": false
+			"options": ["true", "false"],
+			"correct_answer": "false"
 		},
 		{
 			"id": 30,
