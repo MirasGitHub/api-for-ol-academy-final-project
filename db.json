@@ -14,7 +14,7 @@
 			"difficulty": "easy",
 			"question": "easy multiple question",
 			"options": ["option 1", "option 2", "option 3", "option 4"],
-			"correct_answer": [3, 4]
+			"correct_answer": [2, 3]
 		},
 		{
 			"id": 3,
