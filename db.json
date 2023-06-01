@@ -24,54 +24,7 @@
 			"options": ["Gryffindor", "Ravenclaw", "Slytherin", "Hufflepuff"],
 			"correct_answer": "Slytherin"
 		},
-		{
-			"id": 13,
-			"type": "single",
-			"difficulty": "medium",
-			"question": "What does Na stand for on the periodic table?",
-			"options": ["Sodium", "Kalium", "Stibium", "Ferrum"],
-			"correct_answer": "Sodium"
-		},
-		{
-			"id": 14,
-			"type": "single",
-			"difficulty": "medium",
-			"question": "How many points are a touchdown worth",
-			"options": ["four", "six", "seven", "three"],
-			"correct_answer": "six"
-		},
-		{
-			"id": 15,
-			"type": "single",
-			"difficulty": "medium",
-			"question": "Which U.S. state is known for peaches?",
-			"options": ["California", "Los Angeles", "Georgia", "Texas"],
-			"correct_answer": "Georgia"
-		},
-		{
-			"id": 20,
-			"type": "single",
-			"difficulty": "hard",
-			"question": "How many feet are in a mile?",
-			"options": ["1,460 feet", "8,680 feet", "4,270 feet", "5,280 feet"],
-			"correct_answer": "5,280 feet"
-		},
-		{
-			"id": 21,
-			"type": "single",
-			"difficulty": "hard",
-			"question": "Which country occupies half of South America’s western coast?",
-			"options": ["Chile", "Brazil", "Columbia", "Peru"],
-			"correct_answer": "Chile"
-		},
-		{
-			"id": 22,
-			"type": "single",
-			"difficulty": "hard",
-			"question": "What vegetable is known to help you see in the dark?",
-			"options": ["Cucumber", "Onion", "Carrot", "Eggplant"],
-			"correct_answer": "Carrot"
-		},
+
 		{
 			"id": 2,
 			"type": "multiple",
@@ -96,64 +49,7 @@
 			"options": ["Pink", "Red", "Green", "Blue"],
 			"correct_answer": [1, 3]
 		},
-		{
-			"id": 23,
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Which of the following programming languages are statically typed?",
-			"options": ["JavaScript", "Python", "Java", " C++"],
-			"correct_answer": [2, 3]
-		},
-		{
-			"id": 24,
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Which of the following are front-end web development languages?",
-			"options": ["HTML", "CSS", "Java", "JavaScript"],
-			"correct_answer": [0, 1, 3]
-		},
-		{
-			"id": 25,
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": " Which of the following are famous works of William Shakespeare?",
-			"options": [
-				"Romeo and Juliet",
-				"Hamlet",
-				"Pride and Prejudice",
-				"Macbeth"
-			],
-			"correct_answer": [0, 1]
-		},
-		{
-			"id": 26,
-			"type": "multiple",
-			"difficulty": "hard",
-			"question": "Which of the following countries are part of the G7?",
-			"options": ["United States", "Russia", "Germany", "Australia"],
-			"correct_answer": [0, 2]
-		},
-		{
-			"id": 27,
-			"type": "multiple",
-			"difficulty": "hard",
-			"question": "Which of the following are programming paradigms?",
-			"options": [
-				"Object-Oriented Programming (OOP)",
-				"Functional Programming (FP)",
-				"Imperative Programming",
-				"Markup Programming"
-			],
-			"correct_answer": [0, 1]
-		},
-		{
-			"id": 28,
-			"type": "multiple",
-			"difficulty": "hard",
-			"question": "Which of the following are renewable energy sources?",
-			"options": ["Solar power", "Coal", "Wind power", "Natural gas"],
-			"correct_answer": [0, 2]
-		},
+
 		{
 			"id": 3,
 			"type": "boolean",
@@ -175,54 +71,6 @@
 			"type": "boolean",
 			"difficulty": "easy",
 			"question": "The sun rises in the west.",
-			"options": [true, false],
-			"correct_answer": false
-		},
-		{
-			"id": 4,
-			"type": "boolean",
-			"difficulty": "medium",
-			"question": "The Great Wall of China is visible from space.",
-			"options": [true, false],
-			"correct_answer": false
-		},
-		{
-			"id": 31,
-			"type": "boolean",
-			"difficulty": "medium",
-			"question": "Alexander Graham Bell invented the telephone.",
-			"options": [true, false],
-			"correct_answer": true
-		},
-		{
-			"id": 32,
-			"type": "boolean",
-			"difficulty": "medium",
-			"question": "The human brain has four lobes.",
-			"options": [true, false],
-			"correct_answer": true
-		},
-		{
-			"id": 5,
-			"type": "boolean",
-			"difficulty": "hard",
-			"question": "The speed of light is faster than the speed of sound.",
-			"options": [true, false],
-			"correct_answer": true
-		},
-		{
-			"id": 8,
-			"type": "boolean",
-			"difficulty": "hard",
-			"question": "The Sahara Desert is the largest desert in the world.",
-			"options": [true, false],
-			"correct_answer": false
-		},
-		{
-			"id": 16,
-			"type": "boolean",
-			"difficulty": "hard",
-			"question": "The Statue of Liberty was a gift from France to England.",
 			"options": [true, false],
 			"correct_answer": false
 		}
