@@ -31,7 +31,7 @@
 			"difficulty": "easy",
 			"question": "Which of the following are primary colors?",
 			"options": ["Red", "Blue", "Yellow", "Green"],
-			"correct_answer": [0, 2]
+			"correct_answer": ["Red", "Yellow"]
 		},
 		{
 			"id": 9,
@@ -39,7 +39,7 @@
 			"difficulty": "easy",
 			"question": "Which of the following are fruits?",
 			"options": ["Carrot", "Apple", "Banana", "Potato"],
-			"correct_answer": [1, 2]
+			"correct_answer": ["Apple", "Banana"]
 		},
 		{
 			"id": 10,
@@ -47,7 +47,7 @@
 			"difficulty": "easy",
 			"question": "Which of the following are colors of the rainbow?",
 			"options": ["Pink", "Red", "Green", "Blue"],
-			"correct_answer": [1, 3]
+			"correct_answer": ["Red", "Blue"]
 		},
 
 		{
